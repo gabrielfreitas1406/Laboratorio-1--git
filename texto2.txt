@@ -1,1 +1,3 @@
 texto2: fazendo o passo 6
+
+modificando o arquivo na nova branch
