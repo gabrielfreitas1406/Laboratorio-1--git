@@ -1,1 +1,3 @@
 texto1: fazendo o passo 5
+
+passo 12: editando o conteúdo de um dos arquivos da branch main
